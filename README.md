@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/giflin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="giflin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/giflin rejin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giflin rejin" height="30" width="40" /></a>
-<a href="https://kaggle.com/giflin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giflin" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/giflin rejin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giflin-rejin-b8984025b" height="30" width="40" /></a>
+<a href="https://kaggle.com/giflin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giflinrejin" height="30" width="40" /></a>
 <a href="https://instagram.com/gif._x_.jinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gif._x_.jinn" height="30" width="40" /></a>
 </p>
 
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giflin&show_icons=true&locale=en" alt="giflin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giflin&" alt="giflin" /></p>
-
-
