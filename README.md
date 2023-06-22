@@ -1,11 +1,13 @@
 [![Masterhead](https://static.vecteezy.com/system/resources/previews/005/638/564/original/illustration-isometric-concept-data-analysis-of-investment-business-company-free-vector.jpg)](https://giflin.io)
-<h1 align="center">Hi 👋, I'm Giflin Rejin</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h1 align="center">Hi , I'm Giflin Rejin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Analyst;Always%20Learning%20New%20Things&center=true&width=500&height=50&font=georgia"></a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif">
-
+Edi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giflin&label=Profile%20views&color=0e75b6&style=flat" alt="giflin" /> </p>
 
-- 💬 Ask me about **Python,MS Excel, Tableau,MySql**
+- 💬 Ask me about **Python,MS Excel,Tableau,MySql**
 
 - 📫 How to reach me **giflinrejin007@gmail.com**
 
@@ -33,19 +35,25 @@
 <a href="https://www.github.com" target="_blank" rel="noreferrer" > <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"/> </a>
 </p>
 
-
-
+<h3 align="left">Streak Stats:</h3>
+<p align="left">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Giflin&theme=algolia" alt="Giflin" /></p>
+<h3 align="left">GitHub Profile Stats:</h3>
+<p align="left">
 <br/>
   <p align="center">
-    <a href="https://github.com/Giflin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Giflin&show_icons=true&locale=en&theme=algolia" alt="Giflin" height="192px"/></a>
-	</p>
+    <a href="https://github.com/Giflin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Giflin&show_icons=true&locale=en&theme=algolia" alt="Giflin" height="192px"/></a></p>
+<h3 align="left"> Most Used Languages:</h3>
+<p align="left">
 	<p  align="center">
 	  <a href="https://github.com/Giflin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Giflin&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Giflin" height="192px"/></a>
 	</p>
   <br/>
  <br/>
+ <h3 align="left"> Contribution:</h3>
+<p align="left">
 	<a href="https://github.com/Giflin"><img alt="Giflin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Giflin&custom_title=Giflin's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giflin&theme=dark" alt="giflin" /></p>
+
