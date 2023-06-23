@@ -101,22 +101,22 @@
      <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./chakra.svg" width="48" height="48" alt="Chakra UI" />
+        <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width="48" height="48" alt="Matplotlib" />
       </a>
-      <br>Chakra UI
+      <br>Matplotlib
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./redux.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="48" height="48" alt="Seaborn" />
       </a>
-      <br>Redux
+      <br>Seaborn
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./react-original.svg" width="48" height="48" alt="Context API" />
+        <img src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" width="48" height="48" alt="Folium" />
       </a>
-      <br>Context API
+      <br>Folium
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
