@@ -13,6 +13,108 @@ Edi
 
 - ⚡ Fun fact **I think I am curious**
 
+  <table align= "center">
+  <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+      </a>
+      <br>React.js
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./graphql.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    </br>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+      </a>
+      <br>Styled-components
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./tailwind.svg" width="65" height="50" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+   </tr>
+     <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./chakra.svg" width="48" height="48" alt="Chakra UI" />
+      </a>
+      <br>Chakra UI
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./redux.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Redux
+    </td>
+    </br>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./react-original.svg" width="48" height="48" alt="Context API" />
+      </a>
+      <br>Context API
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./web3.svg" width="48" height="48" alt="web3.js" />
+      </a>
+      <br>Web3.js
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./ethers.svg" width="65" height="50" alt="ethers" />
+      </a>
+      <br>Ethers.js
+    </td>
+   </tr>
+  </tr>
+  
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
