@@ -1,4 +1,4 @@
-[![Masterhead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://giflin.io)
+[![Masterhead](https://blog.pixentia.com/hs-fs/hubfs/The-Essential-Step-for-People-Analytics.jpg?width=1750&name=The-Essential-Step-for-People-Analytics.jpg)](https://giflin.io)
 <h1 align="center">Hi , I'm Giflin Rejin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Analyst;Always%20Learning%20New%20Things&center=true&width=500&height=50&font=georgia"></a>
