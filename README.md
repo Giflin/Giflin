@@ -1,4 +1,4 @@
-[![Masterhead](https://static.vecteezy.com/system/resources/previews/005/638/564/original/illustration-isometric-concept-data-analysis-of-investment-business-company-free-vector.jpg)](https://giflin.io)
+[![Masterhead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)](https://giflin.io)
 <h1 align="center">Hi , I'm Giflin Rejin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Analyst;Always%20Learning%20New%20Things&center=true&width=500&height=50&font=georgia"></a>
