@@ -4,7 +4,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Analyst;Always%20Learning%20New%20Things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif">
-Edi
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giflin&label=Profile%20views&color=0e75b6&style=flat" alt="giflin" /> </p>
 
 - 💬 Ask me about **Python,MS Excel,Tableau,MySql**
