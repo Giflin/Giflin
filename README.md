@@ -146,7 +146,7 @@
 - :white_check_mark: [07. Data Analysis with Python](https://github.com/Giflin/IBM-Data-Science-Professional-Certificate/tree/master/07.Data%20Analysis%20with%20Python)
 - :white_check_mark: [08. Data Visualization with Python](https://github.com/Giflin/IBM-Data-Science-Professional-Certificate/tree/master/08.Data%20Visualization%20with%20Python)
 - :white_check_mark: [09. Machine Learning with Python](https://github.com/Giflin/IBM-Data-Science-Professional-Certificate/tree/master/09.Machine%20Learning%20with%20Python)
-- :white_check_mark: [10. Applied Data Science Capstone](https://github.com/Giflin/IBM-Data-Science-Professional-Certificate/tree/master/10.Applied%20Data%20Science%20Caps
+- :white_check_mark: [10. Applied Data Science Capstone](https://github.com/Giflin/IBM-Data-Science-Professional-Certificate/tree/master/10.Applied%20Data%20Science%20Capstone)
 
 
 
