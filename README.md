@@ -13,69 +13,89 @@
 
 - ⚡ Fun fact **I think I am curious**
 
-  <table align= "center">
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/giflin-rejin-b8984025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giflin-rejin-b8984025b" height="30" width="40" /></a>
+<a href="https://kaggle.com/giflinrejin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giflinrejin" height="30" width="40" /></a>
+<a href="https://instagram.com/gif._x_.jinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gif._x_.jinn" height="30" width="40" /></a>
+
+</p>
+
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="48" height="48" alt="SQL" />
       </a>
-      <br>React.js
+      <br>SQL
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="React Native" />
       </a>
-      <br>React Native
+      <br>Python
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="48" height="48" alt="Tableau" />
       </a>
-      <br>JavaScript
+      <br>Tableau
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>TypeScript
+      <br>MySQL
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://www.svgrepo.com/show/452066/ms-excel.svg" width="48" height="48" alt="MS Excel" />
       </a>
-      <br>Sass
+      <br>MS Excel
     </td>
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./graphql.svg" width="48" height="48" alt="GraphQL" />
+        <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="48" height="48" alt="Github" />
       </a>
-      <br>GraphQL
+      <br>Github
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-jupyter-3628867-3030007.png?f=avif&w=512" width="48" height="48" alt="Jupyter" />
       </a>
-      <br>Next.js
+      <br>Jupyter
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" width="48" height="48" alt="Pandas" />
       </a>
-      <br>Firebase
+      <br>Pandas
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+        <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="48" height="48" alt="Numpy" />
       </a>
-      <br>Styled-components
+      <br>Numpy
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./tailwind.svg" width="65" height="50" alt="Tailwind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png?20180611150542" width="65" height="50" alt="Machine Learning" />
       </a>
-      <br>Tailwind
+      <br>Machine Learning
     </td>
    </tr>
      <tr>
@@ -100,32 +120,22 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./web3.svg" width="48" height="48" alt="web3.js" />
+        <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="48" height="48" alt="html" />
       </a>
-      <br>Web3.js
+      <br>html
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./ethers.svg" width="65" height="50" alt="ethers" />
+        <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="65" height="50" alt="CSS" />
       </a>
-      <br>Ethers.js
+      <br>css
     </td>
    </tr>
   </tr>
   
 </table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://linkedin.com/in/giflin-rejin-b8984025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giflin-rejin-b8984025b" height="30" width="40" /></a>
-<a href="https://kaggle.com/giflinrejin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giflinrejin" height="30" width="40" /></a>
-<a href="https://instagram.com/gif._x_.jinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gif._x_.jinn" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
