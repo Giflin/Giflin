@@ -116,7 +116,7 @@
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Plotly_logo.png" width="48" height="48" alt="Plotly" />
       </a>
-      <br>Folium
+      <br>Plotly
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
